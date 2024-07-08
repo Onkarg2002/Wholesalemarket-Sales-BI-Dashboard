@@ -1,1 +1,3 @@
 # Wholesalemarket-Sales-BI-Dashboard
+
+The Wholesalemarket-Sales-BI-Dashboard project involves developing a business intelligence dashboard to analyze and visualize sales data for a wholesale market. This project aims to provide stakeholders with key insights into sales performance, trends, and patterns, enabling data-driven decision-making. The dashboard will feature various metrics such as total sales, sales by product category, sales by region, and customer segmentation. It will utilize data visualization tools to present the information in an easily digestible format, helping users to quickly understand and act on the sales data.
